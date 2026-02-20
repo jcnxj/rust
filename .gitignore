@@ -1,0 +1,9 @@
+# mdbook output directory
+book
+
+# VS Code
+.history
+.vscode
+
+# Other
+.DS_Store
